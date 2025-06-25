@@ -1,0 +1,41 @@
+# 🚀 Desafios Java - Condicionais
+
+Parabéns a mim mesmo por concluir mais uma etapa na minha jornada como desenvolvedor! 💻  
+Este repositório contém os desafios práticos que desenvolvi durante o curso **"Java: utilizando condicionais para decisões inteligentes"**.
+
+## 📚 O que aprendi
+
+Durante este curso, aprendi a utilizar **condicionais** e **operadores lógicos** para controlar o fluxo de execução dos meus programas em Java.
+
+### ✅ Habilidades desenvolvidas:
+
+- Uso de estruturas condicionais `if`, `else if`, `else`
+- Comparações com operadores relacionais: `>`, `<`, `==`, `>=`, `<=`
+- Combinação de múltiplas condições com operadores lógicos: `&&`, `||`
+
+## 🧠 Desafios resolvidos
+
+- Verificação de idade para entrada em eventos
+- Cálculo de desconto com base em quantidade
+- Simulação de login com autenticação condicional
+- Comparação entre dois valores numéricos
+- Decisão de ações com base no clima e temperatura
+
+## 🔎 Próximos passos sugeridos
+
+- [Java: conheça o método main](https://www.alura.com.br/conteudo/java-introducao)
+- [JVM: conhecendo o processo de execução de código](https://www.alura.com.br/artigos/java-jvm-java-virtual-machine)
+- [Diferença entre int e Integer em Java](https://www.alura.com.br/artigos/diferenca-entre-int-e-integer)
+
+---
+
+## 💬 Sobre mim
+
+Desenvolvedor em formação, apaixonado por tecnologia, resolução de problemas e sempre buscando evoluir um pouco mais a cada código.
+
+📌 Me siga no GitHub: [github.com/CezinhaDev](https://github.com/CezinhaDev)  
+📌 Conecte-se comigo no LinkedIn: [linkedin.com/in/césar-henrique](https://linkedin.com/in/césar-henrique)
+
+---
+
+> "Aprender é como codar: passo a passo, erro por erro, até funcionar!" 💡
