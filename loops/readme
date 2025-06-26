@@ -1,0 +1,37 @@
+🔁 Laços de Repetição em Java
+Laços de repetição (ou loops) são estruturas fundamentais em qualquer linguagem de programação. Eles permitem que um bloco de código seja executado repetidamente enquanto uma determinada condição for verdadeira. São muito utilizados para automatizar tarefas repetitivas, percorrer arrays ou listas, ou aguardar eventos.
+
+🧱 Tipos de laços mais comuns:
+for
+Usado quando se sabe exatamente o número de repetições.
+
+java
+Copiar
+Editar
+for (int i = 0; i < 5; i++) {
+    System.out.println("Repetição número " + i);
+}
+Nesse exemplo, a frase será impressa cinco vezes, com o valor de i indo de 0 a 4.
+
+
+while
+Usado quando não se sabe exatamente quantas vezes o laço será executado, apenas que ele continuará enquanto a condição for verdadeira.
+
+int contador = 0;
+while (contador < 5) {
+    System.out.println("Contador: " + contador);
+    contador++;
+}
+
+
+
+do...while
+É semelhante ao while, mas garante que o bloco será executado pelo menos uma vez, mesmo que a condição seja falsa na primeira verificação.
+
+int i = 0;
+do {
+    System.out.println("Valor de i: " + i);
+    i++;
+} while (i < 5);
+
+
